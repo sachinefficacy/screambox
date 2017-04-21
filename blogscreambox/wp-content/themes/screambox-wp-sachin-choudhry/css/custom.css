@@ -1,0 +1,23 @@
+.main-header { background: rgba(0, 0, 0, 0.85); border-bottom: 1px solid #1b252d; display: flex; margin-bottom: -5px; padding: 15px 0; position: fixed; top: 0; width: 100%; z-index: 99; }
+.site-title img { width: 85%; }
+.current_page_item a { color:#c00015 !important; }
+.navigation-right { padding-left: 0 !important; }
+.navigation-right nav { margin: 9px 0; }
+.site-main { background: #0f1214; margin-top: 68px; }
+.foot-social .widget.social-icons { margin: 0; }
+.social-icons-lists.icons-background-rounded { margin: 0; }
+.foot-menu .menu { margin: 11px 0; text-align: center; }
+.social-icons-list-item { margin: 0 4px !important; }
+.foot-copydiv .widget.widget_text { margin: 11px 0; font-size:16px; }
+.upper-footer .widget.widget_text { background: #0f1214; margin: 0; }
+.entry-thumbnail a { width: 100%; }
+.entry-thumbnail img { width: 100%; }
+.entry-title { font-size: 22px !important; margin: 12px 0 !important; }
+.entry-title a { color:#a4abb3 !important; }
+.entry-title a:hover { color:#c00015 !important; }
+.content-area .entry-summary p { font-size: 14px; }
+.content-area .entry-summary { margin-top: 15px; }
+.content-area .entry-title { font-size: 20px !important; line-height: 20px !important; margin: 4px 0 0 !important; }
+#secondary .textwidget { font-size: 14px; letter-spacing: 0.4px; line-height: 18px; }
+#secondary .widget-title { font-size: 18px; font-weight: 600; }
+.widget_search input.field { background: rgba(255, 255, 255, 0.1); border: 1px solid #333; color: #fff !important; font-size: 14px; font-weight: normal; height: 30px; letter-spacing: 1px; padding: 4px 12px; width: 100%; }

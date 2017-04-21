@@ -1,0 +1,7 @@
+Thanks Charles for the opportunity. I hope you'd be amazed with this work.
+
+Please copy all the files inside of blogscreambox folder to your root wordpress folder and import the database.
+
+DROPBOX link for database and files
+https://drive.google.com/file/d/0B8xnp6a62UnMSEhxYnJFQ0lZeHc/view
+https://drive.google.com/file/d/0B8xnp6a62UnMT0NYdDZLVzRRVlE/view
